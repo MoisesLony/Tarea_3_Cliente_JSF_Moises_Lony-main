@@ -1,0 +1,2 @@
+@echo on
+C:\Users\mike_\OneDrive\Documents\Desarrollo_de_Api_y_Backend\Java\netbeans\bin\netbeans.exe --userdir C:\Users\mike_\OneDrive\Documents\Desarrollo_de_Api_y_Backend\Java\netbeans-14-jdk8-user-settings --console suppress

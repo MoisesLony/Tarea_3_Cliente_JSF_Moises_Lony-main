@@ -1,0 +1,17 @@
+com\mycompany\mavenproject1\Save.class
+com\mycompany\mavenproject1\ObjectFactory.class
+com\mycompany\mavenproject1\Personas.class
+com\mycompany\mavenproject1\UpdateResponse.class
+com\mycompany\mavenproject1\SaveResponse.class
+com\mycompany\mavenproject1\PersonasDTO.class
+com\mycompany\mavenproject1\FindById.class
+com\mycompany\mavenproject1\FindByIdResponse.class
+com\mycompany\mavenproject1\DeleteResponse.class
+com\mycompany\mavenproject1\Delete.class
+com\mycompany\mavenproject1\Update.class
+com\mycompany\mavenproject1\PersonasWebService_Service.class
+com\mycompany\mavenproject1\servlets\clientePersonaServlet.class
+com\mycompany\mavenproject1\FindAllResponse.class
+com\mycompany\mavenproject1\PersonasWebService.class
+com\mycompany\mavenproject1\FindAll.class
+com\mycompany\mavenproject1\package-info.class

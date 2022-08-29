@@ -1,0 +1,4 @@
+com\nocompany\webservicepersonas\entities\Personas.class
+com\nocompany\webservicepersonas\entities\dto\PersonasDTO.class
+com\nocompany\webservicepersonas\entities\repositories\PersonasRepository.class
+com\nocompany\webservicepersonas\entities\webservice\PersonasWebService.class
